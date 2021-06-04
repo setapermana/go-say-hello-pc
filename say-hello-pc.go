@@ -1,5 +1,5 @@
 package go_say_hello_pc
 
 func SayHelloPc() string {
-	return "Hay Miftaa"
+	return "Hai Miftaa"
 }
